@@ -2,14 +2,19 @@ Write a Python function that computes the dot product of a matrix and a vector. 
 
 Example:
 Input:
+
 ```
 a = [[1, 2], [2, 4]], b = [1, 2]
 ```
+
 Output:
+
 ```
 [5, 10]
 ```
+
 Reasoning:
+
 ```
 Row 1: (1 * 1) + (2 * 2) = 1 + 4 = 5; Row 2: (1 * 2) + (2 * 4) = 2 + 8 = 10
 ```
